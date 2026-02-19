@@ -1,10 +1,11 @@
 Package: Pippo
 Type: Package
-Title: A new tool to calculate the euclidian distance 
+Title: Title
 Version: 0.9
-Authors@R: Giuseppe Neri
+Authors@R: c(person(given="Antonio", family="Profico",email = "antonio.profico@gmail.com", role=c("aut", "cre")))
+Description: Add description
 Depends: R (>= 3.4.0)
 License: GPL-2
-Author: Giuseppe Neri [aut, cre],
-Maintainer: Giuseppe Neri <giuseppe.neri@phd.unipi.it>
+Author: Antonio Profico [aut, cre],
+Maintainer: Antonio Profico <antonio.profico@gmail.com>
 RoxygenNote: 7.3.3
