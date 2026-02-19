@@ -1,4 +1,4 @@
-Package: eucl_dist
+Package: pippo
 Type: R Package
 Title: A new tool to calculate the euclidian distance 
 Version: 0.9
