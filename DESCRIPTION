@@ -1,5 +1,5 @@
 Package: Pippo
-Type: R Package
+Type: Package
 Title: A new tool to calculate the euclidian distance 
 Version: 0.9
 Authors@R: Giuseppe Neri
